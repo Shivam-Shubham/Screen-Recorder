@@ -1,0 +1,4 @@
+pip install openCv
+pip install win32
+pip install numpy
+pip install PIL
